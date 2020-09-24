@@ -9,7 +9,7 @@
 5. Loops √
 6. Dictionaries & Sets √
 7. Input & Output (I/O) √
-8. Classes …
-9. Importing
+8. Classes √
+9. Importing …
 10. Error Handling
 11. Final Project (Blackjack)
